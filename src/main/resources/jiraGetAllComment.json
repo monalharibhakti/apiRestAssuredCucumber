@@ -1,0 +1,97 @@
+{
+  "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+  "id": "10004",
+  "self": "http://localhost:8080/rest/api/2/issue/10004",
+  "key": "MH-5",
+  "fields": {
+    "comment": {
+      "comments": [
+        {
+          "self": "http://localhost:8080/rest/api/2/issue/10004/comment/10002",
+          "id": "10002",
+          "author": {
+            "self": "http://localhost:8080/rest/api/2/user?username=monal.haribhakti",
+            "name": "monal.haribhakti",
+            "key": "JIRAUSER10000",
+            "emailAddress": "monal.haribhakti@jeavio.com",
+            "avatarUrls": {
+              "48x48": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=48",
+              "24x24": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=24",
+              "16x16": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=16",
+              "32x32": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=32"
+            },
+            "displayName": "monal.haribhakti@jeavio.com",
+            "active": true,
+            "timeZone": "Asia/Calcutta"
+          },
+          "body": "Hey this is a other comment via API",
+          "updateAuthor": {
+            "self": "http://localhost:8080/rest/api/2/user?username=monal.haribhakti",
+            "name": "monal.haribhakti",
+            "key": "JIRAUSER10000",
+            "emailAddress": "monal.haribhakti@jeavio.com",
+            "avatarUrls": {
+              "48x48": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=48",
+              "24x24": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=24",
+              "16x16": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=16",
+              "32x32": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=32"
+            },
+            "displayName": "monal.haribhakti@jeavio.com",
+            "active": true,
+            "timeZone": "Asia/Calcutta"
+          },
+          "created": "2023-05-22T18:56:58.708+0530",
+          "updated": "2023-05-22T18:56:58.708+0530",
+          "visibility": {
+            "type": "role",
+            "value": "Administrators"
+          }
+        },
+        {
+          "self": "http://localhost:8080/rest/api/2/issue/10004/comment/10003",
+          "id": "10003",
+          "author": {
+            "self": "http://localhost:8080/rest/api/2/user?username=monal.haribhakti",
+            "name": "monal.haribhakti",
+            "key": "JIRAUSER10000",
+            "emailAddress": "monal.haribhakti@jeavio.com",
+            "avatarUrls": {
+              "48x48": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=48",
+              "24x24": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=24",
+              "16x16": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=16",
+              "32x32": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=32"
+            },
+            "displayName": "monal.haribhakti@jeavio.com",
+            "active": true,
+            "timeZone": "Asia/Calcutta"
+          },
+          "body": "Hey this is another comment via API",
+          "updateAuthor": {
+            "self": "http://localhost:8080/rest/api/2/user?username=monal.haribhakti",
+            "name": "monal.haribhakti",
+            "key": "JIRAUSER10000",
+            "emailAddress": "monal.haribhakti@jeavio.com",
+            "avatarUrls": {
+              "48x48": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=48",
+              "24x24": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=24",
+              "16x16": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=16",
+              "32x32": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=32"
+            },
+            "displayName": "monal.haribhakti@jeavio.com",
+            "active": true,
+            "timeZone": "Asia/Calcutta"
+          },
+          "created": "2023-05-23T18:09:21.372+0530",
+          "updated": "2023-05-23T18:09:21.372+0530",
+          "visibility": {
+            "type": "role",
+            "value": "Administrators"
+          }
+        }
+      ],
+      "maxResults": 2,
+      "total": 2,
+      "startAt": 0
+    }
+  }
+}

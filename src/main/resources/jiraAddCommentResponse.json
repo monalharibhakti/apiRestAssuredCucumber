@@ -1,0 +1,41 @@
+{
+  "self": "http://localhost:8080/rest/api/2/issue/10004/comment/10100",
+  "id": "10100",
+  "author": {
+    "self": "http://localhost:8080/rest/api/2/user?username=monal.haribhakti",
+    "name": "monal.haribhakti",
+    "key": "JIRAUSER10000",
+    "emailAddress": "monal.haribhakti@jeavio.com",
+    "avatarUrls": {
+      "48x48": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=48",
+      "24x24": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=24",
+      "16x16": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=16",
+      "32x32": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=32"
+    },
+    "displayName": "monal.haribhakti@jeavio.com",
+    "active": true,
+    "timeZone": "Asia/Calcutta"
+  },
+  "body": "Hey this is a new comment via API",
+  "updateAuthor": {
+    "self": "http://localhost:8080/rest/api/2/user?username=monal.haribhakti",
+    "name": "monal.haribhakti",
+    "key": "JIRAUSER10000",
+    "emailAddress": "monal.haribhakti@jeavio.com",
+    "avatarUrls": {
+      "48x48": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=48",
+      "24x24": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=24",
+      "16x16": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=16",
+      "32x32": "https://www.gravatar.com/avatar/0e0f51e507844fff24fcd646bfebfa59?d=mm&s=32"
+    },
+    "displayName": "monal.haribhakti@jeavio.com",
+    "active": true,
+    "timeZone": "Asia/Calcutta"
+  },
+  "created": "2023-05-24T15:05:29.047+0530",
+  "updated": "2023-05-24T15:05:29.047+0530",
+  "visibility": {
+    "type": "role",
+    "value": "Administrators"
+  }
+}
